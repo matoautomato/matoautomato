@@ -6,17 +6,17 @@
 
   ---
 
-  ## Latest posts
+  ## 📝 Latest posts
 
   <!-- posts starts -->
   <!-- posts ends -->
 
-  ## Latest note
+  ## 📸 Latest note
 
   <!-- note starts -->
   <!-- note ends -->
 
-  ## Recent projects
+  ## 🛠  Recent projects
 
   <!-- projects starts -->
   <!-- projects ends -->
