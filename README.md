@@ -9,29 +9,37 @@
   ## 📝 Latest posts
 
   <!-- posts starts -->
-  <!-- posts ends -->
+- [Cognitive Debt with AI-generated Code](https://terminalvelocity.blog/posts/cognitive-debt/) – 2026-04-22
+- [From scribe to architect – what happens after coding is solved?](https://terminalvelocity.blog/posts/from-scribe-to-architect/) – 2026-03-26
+- [Coding is becoming a commodity](https://terminalvelocity.blog/posts/coding-is-becoming-a-commodity/) – 2026-03-03
+- [What is terminal velocity?](https://terminalvelocity.blog/posts/what-is-terminal-velocity/) – 2025-11-29
+<!-- posts ends -->
+
+  ---
 
   ## 📸 Latest note
 
   <!-- note starts -->
-  <!-- note ends -->
+**[The face of DOOM](https://terminalvelocity.blog/notes/primitive-man/)** – 2026-05-06
+
+Primitive Man @ P8 Karlsruhe
+
+[![The face of DOOM](https://terminalvelocity.blog/notes/primitive-man/IMG_3245.jpeg)](https://terminalvelocity.blog/notes/primitive-man/)
+
+[![The face of DOOM](https://terminalvelocity.blog/notes/primitive-man/IMG_3246.jpeg)](https://terminalvelocity.blog/notes/primitive-man/)
+<!-- note ends -->
+
+  ---
 
   ## 🛠  Recent projects
 
   <!-- projects starts -->
-  <!-- projects ends -->
+- [terminalvelocity.blog](https://github.com/matoautomato/terminalvelocity.blog) – Hugo-powered professional blog (updated 2026-05-08)
+- [terminalvelocity.me](https://github.com/matoautomato/terminalvelocity.me) – personal website - terminalvelocity.me (updated 2026-05-05)
+- [online-cv](https://github.com/matoautomato/online-cv) – Simple page to host and maintain a CV and allow for a PDF-download (updated 2026-05-01)
+- [shift-plan-solver](https://github.com/matoautomato/shift-plan-solver) – A small but fast work shift distribution problem solver (updated 2026-04-04)
+<!-- projects ends -->
 
-<!--
-**matoautomato/matoautomato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Built with inspiration from [Simon Willison's self-updating profile](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/).*
