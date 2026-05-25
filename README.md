@@ -9,10 +9,10 @@
   ## 📝 Latest posts
 
   <!-- posts starts -->
+- [IC work is not a career flex, but a pay cut](https://terminalvelocity.blog/posts/ic-work-pay-cut/) – 2026-05-24
 - [Agentic commerce and BNPL](https://terminalvelocity.blog/posts/agentic-commerce-bnpl/) – 2026-05-12
 - [Product Management is a job of context](https://terminalvelocity.blog/posts/pm-job-of-context/) – 2026-05-09
 - [Cognitive Debt with AI-generated Code](https://terminalvelocity.blog/posts/cognitive-debt/) – 2026-04-22
-- [From scribe to architect – what happens after coding is solved?](https://terminalvelocity.blog/posts/from-scribe-to-architect/) – 2026-03-26
 <!-- posts ends -->
 
   ---
@@ -34,7 +34,7 @@ Primitive Man @ P8 Karlsruhe
   ## 🛠  Recent projects
 
   <!-- projects starts -->
-- [terminalvelocity.blog](https://github.com/matoautomato/terminalvelocity.blog) – Hugo-powered professional blog (updated 2026-05-12)
+- [terminalvelocity.blog](https://github.com/matoautomato/terminalvelocity.blog) – Hugo-powered professional blog (updated 2026-05-24)
 - [online-cv](https://github.com/matoautomato/online-cv) – Simple page to host and maintain a CV and allow for a PDF-download (updated 2026-05-08)
 - [terminalvelocity.me](https://github.com/matoautomato/terminalvelocity.me) – personal website - terminalvelocity.me (updated 2026-05-05)
 - [shift-plan-solver](https://github.com/matoautomato/shift-plan-solver) – A small but fast work shift distribution problem solver (updated 2026-04-04)
