@@ -20,13 +20,10 @@
   ## 📸 Latest note
 
   <!-- note starts -->
-**[The face of DOOM](https://terminalvelocity.blog/notes/primitive-man/)** – 2026-05-06
+**[Building Pi with Pi](https://terminalvelocity.blog/notes/building-pi-with-pi/)** – 2026-06-01
 
-Primitive Man @ P8 Karlsruhe
-
-[![The face of DOOM](https://terminalvelocity.blog/notes/primitive-man/IMG_3245.jpeg)](https://terminalvelocity.blog/notes/primitive-man/)
-
-[![The face of DOOM](https://terminalvelocity.blog/notes/primitive-man/IMG_3246.jpeg)](https://terminalvelocity.blog/notes/primitive-man/)
+Really insightful piece by Armin on how AI is quietly eroding open source. Not just through the sheer volume of slop flooding GitHub, but by letting us skip the human collaboration that makes projects strong in the first place. Open source was never about the code – it was about the community around it.
+Building Pi with Pi →
 <!-- note ends -->
 
   ---
@@ -34,7 +31,7 @@ Primitive Man @ P8 Karlsruhe
   ## 🛠  Recent projects
 
   <!-- projects starts -->
-- [terminalvelocity.blog](https://github.com/matoautomato/terminalvelocity.blog) – Hugo-powered professional blog (updated 2026-05-24)
+- [terminalvelocity.blog](https://github.com/matoautomato/terminalvelocity.blog) – Hugo-powered professional blog (updated 2026-06-01)
 - [online-cv](https://github.com/matoautomato/online-cv) – Simple page to host and maintain a CV and allow for a PDF-download (updated 2026-05-08)
 - [terminalvelocity.me](https://github.com/matoautomato/terminalvelocity.me) – personal website - terminalvelocity.me (updated 2026-05-05)
 - [shift-plan-solver](https://github.com/matoautomato/shift-plan-solver) – A small but fast work shift distribution problem solver (updated 2026-04-04)
