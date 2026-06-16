@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Matthias
 
-  Building products for a living and coding for fun.
+  Find me here: 
 
   [Blog](https://terminalvelocity.blog) · [LinkedIn](https://linkedin.com/in/mlyndckr) · [Bluesky](https://bsky.app/profile/matoautomato)
 
