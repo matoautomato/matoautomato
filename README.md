@@ -22,7 +22,7 @@
   <!-- note starts -->
 **[The PR machine is in full swing](https://terminalvelocity.blog/notes/pr-machine/)** – 2026-06-29
 
-The PR machine is in full swing, when adding a Slack-bot with extra permissions is called a paradigm shift. I’ve seen the first bots of that kind in early 2024, hosted and maintained locally by tech companies.
+The PR machine is in full swing, when adding a Slack-bot with extra permissions is called a paradigm shift. I’ve seen the first bots of that kind in early 2024, hosted locally.
 
 [![The PR machine is in full swing](https://terminalvelocity.blog/notes/pr-machine/pr-machine.webp)](https://terminalvelocity.blog/notes/pr-machine/)
 <!-- note ends -->
