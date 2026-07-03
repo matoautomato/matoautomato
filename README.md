@@ -20,11 +20,11 @@
   ## 📸 Latest note
 
   <!-- note starts -->
-**[The PR machine is in full swing](https://terminalvelocity.blog/notes/pr-machine/)** – 2026-06-29
+**[Incorruptible](https://terminalvelocity.blog/notes/incorruptible/)** – 2026-07-02
 
-The PR machine is in full swing, when adding a Slack-bot with extra permissions is called a paradigm shift. I’ve seen the first bots of that kind in early 2024, hosted locally.
+I haven’t bought a physical book in a while, but when Eric Ries writes one I make an exception.
 
-[![The PR machine is in full swing](https://terminalvelocity.blog/notes/pr-machine/pr-machine.webp)](https://terminalvelocity.blog/notes/pr-machine/)
+[![Incorruptible](https://terminalvelocity.blog/notes/incorruptible/incorruptible.webp)](https://terminalvelocity.blog/notes/incorruptible/)
 <!-- note ends -->
 
   ---
@@ -32,7 +32,7 @@ The PR machine is in full swing, when adding a Slack-bot with extra permissions 
   ## 🛠  Recent projects
 
   <!-- projects starts -->
-- [terminalvelocity.blog](https://github.com/matoautomato/terminalvelocity.blog) – Hugo-powered professional blog (updated 2026-06-29)
+- [terminalvelocity.blog](https://github.com/matoautomato/terminalvelocity.blog) – Hugo-powered professional blog (updated 2026-07-02)
 - [terminalvelocity.me](https://github.com/matoautomato/terminalvelocity.me) – personal website - terminalvelocity.me (updated 2026-06-17)
 - [online-cv](https://github.com/matoautomato/online-cv) – Simple page to host and maintain a CV and allow for a PDF-download (updated 2026-05-08)
 - [shift-plan-solver](https://github.com/matoautomato/shift-plan-solver) – A small but fast work shift distribution problem solver (updated 2026-04-04)
