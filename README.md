@@ -2,7 +2,7 @@
 
   Find me here: 
 
-  [Blog](https://terminalvelocity.blog) · [LinkedIn](https://linkedin.com/in/mlyndckr) · [Bluesky](https://bsky.app/profile/matoautomato)
+  [Blog](https://terminalvelocity.blog) · [LinkedIn](https://linkedin.com/in/mlyndckr) · [Bluesky](https://bsky.app/profile/matoautomato.bsky.social)
 
   ---
 
