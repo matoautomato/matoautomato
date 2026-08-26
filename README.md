@@ -32,7 +32,7 @@ I haven’t bought a physical book in a while, but when Eric Ries writes one I m
   ## 🛠  Recent projects
 
   <!-- projects starts -->
-- [terminalvelocity.me](https://github.com/matoautomato/terminalvelocity.me) – personal website - terminalvelocity.me (updated 2026-08-19)
+- [terminalvelocity.me](https://github.com/matoautomato/terminalvelocity.me) – personal website - terminalvelocity.me (updated 2026-08-25)
 - [terminalvelocity.blog](https://github.com/matoautomato/terminalvelocity.blog) – Hugo-powered professional blog (updated 2026-08-19)
 - [career-card-page](https://github.com/matoautomato/career-card-page) – A dependency-free, filterable directory of professional profiles with shareable URL-based filters (updated 2026-07-26)
 - [online-cv](https://github.com/matoautomato/online-cv) – Simple page to host and maintain a CV and allow for a PDF-download (updated 2026-07-19)
