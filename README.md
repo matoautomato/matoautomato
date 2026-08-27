@@ -20,11 +20,11 @@
   ## 📸 Latest note
 
   <!-- note starts -->
-**[Incorruptible](https://terminalvelocity.blog/notes/incorruptible/)** – 2026-07-02
+**[The 30-trillion-dollar bet](https://terminalvelocity.blog/notes/thirty-trillion/)** – 2026-08-27
 
-I haven’t bought a physical book in a while, but when Eric Ries writes one I make an exception.
+You know what is worth pretty much exactly 30 trillion? The global white-collar job market. Remember that next time Anthropic fires up the PR machine.
 
-[![Incorruptible](https://terminalvelocity.blog/notes/incorruptible/incorruptible.webp)](https://terminalvelocity.blog/notes/incorruptible/)
+[![The 30-trillion-dollar bet](https://terminalvelocity.blog/notes/thirty-trillion/thirty-trillion.webp)](https://terminalvelocity.blog/notes/thirty-trillion/)
 <!-- note ends -->
 
   ---
@@ -32,7 +32,7 @@ I haven’t bought a physical book in a while, but when Eric Ries writes one I m
   ## 🛠  Recent projects
 
   <!-- projects starts -->
-- [terminalvelocity.blog](https://github.com/matoautomato/terminalvelocity.blog) – Hugo-powered professional blog (updated 2026-08-26)
+- [terminalvelocity.blog](https://github.com/matoautomato/terminalvelocity.blog) – Hugo-powered professional blog (updated 2026-08-27)
 - [terminalvelocity.me](https://github.com/matoautomato/terminalvelocity.me) – personal website - terminalvelocity.me (updated 2026-08-26)
 - [career-card-page](https://github.com/matoautomato/career-card-page) – A dependency-free, filterable directory of professional profiles with shareable URL-based filters (updated 2026-07-26)
 - [online-cv](https://github.com/matoautomato/online-cv) – Simple page to host and maintain a CV and allow for a PDF-download (updated 2026-07-19)
