@@ -32,7 +32,7 @@ Gartner showing us, how roles are changing and merging in the age of AI. Had a g
   ## 🛠  Recent projects
 
   <!-- projects starts -->
-- [terminalvelocity.blog](https://github.com/matoautomato/terminalvelocity.blog) – Hugo-powered professional blog (updated 2026-09-01)
+- [terminalvelocity.blog](https://github.com/matoautomato/terminalvelocity.blog) – Hugo-powered professional blog (updated 2026-09-06)
 - [terminalvelocity.me](https://github.com/matoautomato/terminalvelocity.me) – personal website - terminalvelocity.me (updated 2026-08-26)
 - [career-card-page](https://github.com/matoautomato/career-card-page) – A dependency-free, filterable directory of professional profiles with shareable URL-based filters (updated 2026-07-26)
 - [online-cv](https://github.com/matoautomato/online-cv) – Simple page to host and maintain a CV and allow for a PDF-download (updated 2026-07-19)
