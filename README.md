@@ -20,11 +20,9 @@
   ## 📸 Latest note
 
   <!-- note starts -->
-**[Why would I deceive you?](https://terminalvelocity.blog/notes/why-would-i-deceive-you/)** – 2026-09-15
+**[Slop grenades, everywhere](https://terminalvelocity.blog/notes/slop-grenades-everywhere/)** – 2026-10-29
 
-Everyone’s favorite meme.
-
-[![Why would I deceive you?](https://terminalvelocity.blog/notes/why-would-i-deceive-you/why-would-i-deceive-you.webp)](https://terminalvelocity.blog/notes/why-would-i-deceive-you/)
+As someone who really appreciates a good writing culture in companies and appreciates people distilling their thoughts into well crafted blog posts, this really resonated with me: On the death of Amazon’s writing culture
 <!-- note ends -->
 
   ---
@@ -32,8 +30,8 @@ Everyone’s favorite meme.
   ## 🛠  Recent projects
 
   <!-- projects starts -->
+- [terminalvelocity.blog](https://github.com/matoautomato/terminalvelocity.blog) – Hugo-powered professional blog (updated 2026-10-29)
 - [terminalvelocity.me](https://github.com/matoautomato/terminalvelocity.me) – personal website - terminalvelocity.me (updated 2026-10-24)
-- [terminalvelocity.blog](https://github.com/matoautomato/terminalvelocity.blog) – Hugo-powered professional blog (updated 2026-09-30)
 - [career-card-page](https://github.com/matoautomato/career-card-page) – A dependency-free, filterable directory of professional profiles with shareable URL-based filters (updated 2026-07-26)
 - [online-cv](https://github.com/matoautomato/online-cv) – Simple page to host and maintain a CV and allow for a PDF-download (updated 2026-07-19)
 - [shift-plan-solver](https://github.com/matoautomato/shift-plan-solver) – A small but fast work shift distribution problem solver (updated 2026-04-04)
